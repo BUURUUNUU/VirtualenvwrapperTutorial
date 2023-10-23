@@ -48,7 +48,7 @@ vim ~/.bashrc
 
 10 - Press `i` to edit the file
 
-11 - Scroll to the botton on the file
+11 - Scroll to the botton of the file
 
 12 - Paste on ~/.bashrc `DONT FORGET TO CHANGE "YOUR USERNAME HERE"`
 
